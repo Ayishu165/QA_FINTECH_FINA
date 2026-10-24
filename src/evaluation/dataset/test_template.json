@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "test_001",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ የካርድ አገልግሎቶች (CBE Cards)\n\nለባንክ አገልግሎትዎ ምቾት ከአገር ውስጥ እና ዓለም አቀፍ የካርድ አገልግሎቶቻችን ይምረጡ። 1. ስማርት የአገር ውስጥ ካርዶች (Smart Domestic Cards)\n\nለቀላጠፈ የአገር ውስጥ ክፍያዎች፣ ግብይቶች እና ለዕለት ተዕለት የባንክ አገልግሎት የተ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_002",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0001"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "chunk_preview": "ለባለቤቱ የሚፈለጉ ብቁነቶች፦ ማንኛውም የኢትዮጵያ ንግድ ባንክ አካውንት ያለው ወይም አካውንት የሌለው ደንበኛ። የታደሰ ብሔራዊ መታወቂያ ካርድ ወይም ፓስፖርት። የካርዱ ጥቅሞች፦ በኤቲኤም ማሽን ላይ ገንዘብ ለማውጣት እና ለማስተላለፍ ያስችላል። በPOS ተርሚናሎች ላይ ክፍያ ለመፈጸም እና በቅርንጫፎች በሚገኙ የPOS",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_003",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0002"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "chunk_preview": "ዕድሜያቸው 55 ዓመት እና ከዚያ በላይ ለሆኑ ደንበኞች የሚሰጥ ነው። ለባለቤቱ የሚፈለጉ ብቁነቶች፦ ዕድሜያቸው 55 እና ከዚያ በላይ የሆኑ የጋሻ አካውንት ባለቤቶች። የታደሰ መታወቂያ ካርድ ወይም ፓስፖርት። የካርዱ ጥቅሞች፦ በኤቲኤም ላይ ገንዘብ ለማውጣት እና ለማስተላለፍ ያስችላል። በPOS ተርሚናሎች ላይ ክፍያ ለ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_004",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0003"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "chunk_preview": "በPOS ተርሚናሎች ላይ ክፍያ ለመፈጸም እና በቅርንጫፎች በሚገኙ የPOS ማሽኖች ላይ የቅድሚያ ጥሬ ገንዘብ ለማግኘት። 1.5 ቪዛ ኋይት ሌብል ክላሲክ ባለዕዳ ካርድ (VISA White Label Classic Debit Card) መግለጫ እና ባህሪያት፦ በኤቲኤም በቀን ሊወጣ የሚችለው ከፍተኛው የጥሬ ገንዘብ መጠን 10,0",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_005",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0004"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "chunk_preview": "በብሔራዊ ባንክ (NBE) መመሪያ መሠረት፣ በPOS በኩል በቀን የሚወጣው ከፍተኛው የጥሬ ገንዘብ መጠን ለመደበኛ ደንበኞች 50,000 ብር ሲሆን ለንግድ ድርጅቶች 75,000 ብር ነው። በኤቲኤም በቀን ሊተላለፍ የሚችለው ከፍተኛው የገንዘብ መጠን 400,000 ብር ሲሆን፣ በPOS ላይ የሚፈጸመው ከፍተኛው የክፍያ የግዢ ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_006",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0005"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "chunk_preview": "ካርዱ ከአምስት ዓመት በኋላ አገልግሎቱ ያበቃል። ለባለቤቱ የሚፈለጉ ብቁነቶች፦ የንግድ ድርጅት ደንበኛ መታወቂያ (Business Customer ID)። የታደሰ መታወቂያ ካርድ ወይም ፓስፖርት። የካርዱ ጥቅሞች፦ በኤቲኤም ላይ ገንዘብ ለማውጣት እና ለማስተላለፍ ያስችላል። በPOS ተርሚናሎች ላይ ክፍያ ለመፈጸም እና በቅ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_007",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0006"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "chunk_preview": "2. ሁነኛ ዓለም አቀፍ ካርዶች (Powerful International Cards)\n\nለጉዞ፣ ለኦንላይን ግዢዎች፣ ለአለም አቀፍ ክፍያዎች እና በመላው ዓለም የኤቲኤም አገልግሎትን ለማግኘት የተሰሩ በዓለም አቀፍ ደረጃ ተቀባይነት ያላቸው ካርዶች። በድምሩ 9 የካርድ አማራጮች አሉ። 2.1 ዓለም አቀፍ ተለባሽ መሣሪያዎች -",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_008",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0007"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "chunk_preview": "የ3 ዓመት የጸና ጊዜ ያለው ሲሆን የማደስ አማራጭ አለው። የካርድ ባለቤቶች 3D ሴኪውሪቲ በሌላቸው (non-3DS) የነጋዴዎች የኦንላይን ገጾች ላይ ግብይቶች በጊዜያዊነት እንዲታገዱ የመጠየቅ መብት አላቸው። ለመደበኛው (Conventional) እና ከወለድ ነፃ የባንክ አገልግሎት ደንበኞች ይሠራል። ደንበኞች በማንኛውም",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_009",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0008"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "chunk_preview": "የካርዱ ጥቅሞች፦ ምቹ የሆኑ ዓለም አቀፍና አገር ውስጥ ግብይቶች። ደንበኛው በአገር ውስጥም ሆነ በዓለም አቀፍ አጠቃቀም ላይ ለሚያጋጥሙት እክሎች በሲቢኢ ሞባይል ባንኪንግ መተግበሪያ ላይ ባለው የውይይት ረዳት (Chat-bot) አማካኝነት የ24 7 እገዛ ማግኘት ይችላልer\n\n2.3 ቪዛ - ጎልድ የቅድመ-ክፍያ ካርድ (",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_010",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0009"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "chunk_preview": "በኤቲኤም በቀን ሊወጣ የሚችለው ወይም በPOS በኩል የሚሰጠው የቅድሚያ ጥሬ ገንዘብ እስከ 400 የአሜሪካ ዶላር (USD) ነው። ዕለታዊ የPOS ክፍያዎች በካርዱ ላይ ካለው ቀሪ ሂሳብ ጋር እኩል ናቸው። ካርዶቹ የአገልግሎት ማብቂያ ጊዜያቸው ከመድረሱ በፊት ለሦስት ዓመታት ያገለግላሉ። ለባለቤቱ የሚፈለጉ ብቁነቶች፦ ሕ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_011",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0010"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "chunk_preview": "በቀጥታ ከውጭ ምንዛሬ (FCY) ቁጠባ ወይም ቼክ አካውንት ጋር የተገናኘ ነው። የኤቲኤም ገንዘብ ማውጣትን፣ የPOS ክፍያዎችን፣ ካርድ ሳይኖር የሚፈጸሙ (CNP) ግብይቶችን እና የኦንላይን ክፍያዎችን ይደግፋል። በአገር ውስጥም ሆነ በዓለም አቀፍ ደረጃ ማገልገል ይችላል። የ3 ዓመት የጸና ጊዜ ያለው ሲሆን የማደስ አማ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_012",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0011"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "chunk_preview": "የካርዱ ጥቅሞች፦ ምቹ የሆኑ ዓለም አቀፍና አገር ውስጥ ግብይቶች እና የ24 7 የውይይት ረዳት (Chat-bot) እገዛ። 2.7 ቪዛ ጎልድ ዓለም አቀፍ ባለዕዳ ካርድ (VISA Gold International Debit Card) መግለጫ እና ባህሪያት፦ ንክኪ አልባ (Contactless) አገልግሎት የሚሰጥ የቪዛ ዓለም አቀ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_013",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0012"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "chunk_preview": "የካርዱ ጥቅሞች፦ ምቹ የሆኑ ዓለም አቀፍና አገር ውስጥ ግብይቶች እና የ24 7 የውይይት ረዳት (Chat-bot) እገዛ። 2.8 ዓለም አቀፍ የቱሪስት ካርድ (International Tourist Card) አጠቃላይ መግለጫ፦ ለቱሪስቶች የተነደፈ ሲሆን ከጉዞ ጋር የተያያዙ ወጪዎችን (የሆቴል ቦታ ማስያዝ፣ የጉብኝት ፓኬጆች",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_014",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0013"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "chunk_preview": "የቀረውን የገንዘብ መጠን ካርዱ ቢጠፋ፣ ቢሰረቅ፣ ቢበላሽ ወይም የአገልግሎት ጊዜው ቢያበቃ ወደ ሌላ ምትክ ካርድ የማዛወር ዕድል። በተመረጡ ኤቲኤም እና POS ተርሚናሎች ላይ ቀላል የቀሪ ሂሳብ ፍተሻ ማካሄድ መቻል። 2.9 የሲቢኢ ሸባማይልስ ቪዛ ዓለም አቀፍ የቅድመ-ክፍያ ካርድ (CBE ShebaMiles VISA Int",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_015",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0014"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "chunk_preview": "ዕለታዊ የኤቲኤም ጥሬ ገንዘብ ማውጫ ገደብ፦ 1,500 የአሜሪካ ዶላር (USD)። ለባለቤቱ የሚፈለጉ ብቁነቶች፦ ማንኛውም ንቁ እና የሚሠራ የባንክ አካውንት ያለው የኢትዮጵያ ንግድ ባንክ ደንበኛ። የታማኝነት አካውንቱን ከዚህ የጋራ-ብራንድ ካርድ ጋር ማገናኘት የሚፈልግ ማንኛውም የተመዘገበ የሸባማይልስ አባል። በባንኩ ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_016",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_diaspora_banking_corpus.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_diaspora_banking_corpus.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ የዲያስፖራ ባንክ አገልግሎት (CBE Diaspora Banking)\n\nአጠቃላይ መግለጫ፦ በዲያስፖራ የባንክ አገልግሎታችን አማካኝነት ከትውልድ ሀገርዎ ጋር ይገናኙ። በውጭ ሀገር ለሚኖሩ ኢትዮጵያውያን እና ትውልደ ኢትዮጵያውያን የተነደፉ ምቹ፣ አስተማማኝ እና ተስማሚ የፋይናንስ መፍትሄዎች። 1. ለ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_017",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_diaspora_banking_corpus.md::chunk_0001"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_diaspora_banking_corpus.md",
+      "chunk_preview": "FCY LCY (የውጭ ምንዛሬ የሀገር ውስጥ ብር)፦ የደንበኛውን ድርሻ (Equity) በውጭ ምንዛሬ ያበረክታሉ፣ ብድሩን ግን በሀገር ውስጥ ብር (ETB) ይመልሳሉ። 2. የብድር ዓይነቶች እና መስፈርቶቻቸው (Loan Types Requirements)\n\n2.1 የቤት መግዣ ወይም መስሪያ ብድር (Mortgage Loan to t",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_018",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_diaspora_banking_corpus.md::chunk_0002"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_diaspora_banking_corpus.md",
+      "chunk_preview": "ዋና ዋና ባህሪያት (Features)፦ ተፈጻሚ የሚሆነው የብድር ወለድ ተመን የሚወሰነው ለደንበኛ ድርሻ (Equity) እና ለወርሃዊ ክፍያ ጥቅም ላይ በሚውለው የገንዘብ ምንዛሬ ዓይነት ላይ ተመስርቶ ነው። ለአዳዲስ (Brand New) አውቶሞቢሎች ከፍተኛው የብድር መመለሻ ጊዜ 10 ዓመት ነው። ለአዳዲስ አውቶሞቢሎች የ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_019",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_diaspora_banking_corpus.md::chunk_0003"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_diaspora_banking_corpus.md",
+      "chunk_preview": "አስቀድሞ በቤት መግዣ ብድር (Mortgage Loan) ስር ላለ ቤት፣ የቤት መግዣ ብድሩ ቢያንስ 50 የተከፈለ ከሆነ፣ ይህ የግል ብድር ሊፈቀድ ይችላል። 2.4 የንግድ ስራ ብድር (Business Loan for Ethiopian Diaspora) ዋና ዋና ባህሪያት (Features)፦ ተፈጻሚ የሚሆነው የብድር ወለድ ተመን ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_020",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_internet_banking_corpus.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_internet_banking_corpus.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ የኢንተርኔት ባንኪንግ አገልግሎት (CBE Internet Banking)\n\nአጠቃላይ መግለጫ፦ የኢንተርኔት ባንኪንግ ደንበኞች በኢንተርኔት አማካኝነት የገንዘብ ዝውውሮችን፣ ክፍያዎችን እና ሌሎች የባንክ ተግባራትን ማከናወን እንዲችሉ በባንኩ የሚሰጥ የኤሌክትሮኒክስ አገልግሎት ነው። የኢትዮጵያ ንግድ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_021",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_internet_banking_corpus.md::chunk_0001"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_internet_banking_corpus.md",
+      "chunk_preview": "የአካውንት ቁጥጥር፦ የራስን አካውንት ቀሪ ሂሳብ (Balance) እና ሌሎችንም መረጃዎች መፈተሽ። 3. የአገልግሎቱ ዋና ዋና ባህሪያት (Features)\n\nየቅጽበት ሂሳብ ፍተሻ፦ የአካውንትን ቀሪ ሂሳብ በቅጽበት (Real-time) ለመመልከት ያስችላል። የአካውንት መግለጫ (Statement)፦ የተወሰነ ጊዜን ወይም ቀና",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_022",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_internet_banking_corpus.md::chunk_0002"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_internet_banking_corpus.md",
+      "chunk_preview": "የፍጆታ ዕቃዎች ክፍያ (Utility Payments)፦ የአገልግሎት ሰጪ ተቋማት የኦንላይን ክፍያዎችን ለመቀበል ዝግጁ ሲሆኑ፤ እንደ ውሃ፣ መብራት እና ስልክ ያሉ የፍጆታ ሂሳቦችን መክፈል ያስችላል። የደህንነት ቁጥጥር፦ ደንበኞች የይለፍ ቃላቸውን (Password) እንዲቀይሩ እና የባንኪንግ መግቢያ ታሪካቸውን (Logi",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_023",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_noor_banking_corpus.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_noor_banking_corpus.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ የሲቢኢ ኑር አገልግሎት (CBE Noor Interest-Free Banking)\n\nአጠቃላይ መግለጫ፦ ሲቢኢ ኑር (CBE Noor) ሁለንተናዊ እና ከሸሪዓ ድንጋጌዎች ጋር የተጣጣሙ የፋይናንስ አገልግሎቶችን ለማቅረብ የተቋቋመ፣ የኢትዮጵያ ንግድ ባንክ ራሱን የቻለ ከወለድ ነፃ የባንክ አገልግሎት ነው።",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_024",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_noor_banking_corpus.md::chunk_0001"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_noor_banking_corpus.md",
+      "chunk_preview": "ትርፍ የሚከፋፈለው ባንኩ ለሰጠው የፋይናንስ አገልግሎት የሚገባውን የኮሚሽን ገቢ እና ሌሎች ተመሳሳይ ገቢዎችን ከሰበሰበ በኋላ ይሆናል። 3. የሲቢኢ ኑር ሕጋዊ መርህ (CBE NOOR Legal Maxim)\n\nጠቅላላ ፈቃድ (General Permissibility)፦ በሸሪዓ ሕግ በግልጽ ካልተከለከለ በስተቀር ማንኛውም ነገር",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_025",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cbe_noor_banking_corpus.md::chunk_0002"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cbe_noor_banking_corpus.md",
+      "chunk_preview": "የደንበኛ የቁጥጥር ኃላፊነት፦ ደንበኛው በባንክ ደብተሩ (Passbook) ላይ ያሉትን ሁሉንም ሰነዶች የመመርመር እና ማናቸውንም ስህተቶች፣ ያልተለመዱ ነገሮችን፣ ያለፈቃድ የተደረጉ ወጪዎችን ወይም የጎደሉ ምዝገባዎችን ወዲያውኑ ለባንኩ የማሳወቅ ግዴታ አለበት። ገንዘብ በአካል የማውጣት ውል፦ በአካል በቅርንጫፍ በኩል ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_026",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_CBE_apps.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_CBE apps.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ (CBE) መተግበሪያዎች\n\n1. የሞባይል ባንኪንግ (Mobile Banking) የሲቢኢ ሞባይል ባንኪንግ መተግበሪያ ደንበኞች በሞባይል ስልካቸው አማካኝነት የባንክ አገልግሎቶችን እንዲያገኙ የሚያስችል መተግበሪያ ነው። መተግበሪያው ደንበኞች ባሉበት ሆነው አካውንታቸውን እንዲያስተዳድሩ፣ ገንዘብ እን",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_027",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_CBE_apps.md::chunk_0001"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_CBE apps.md",
+      "chunk_preview": "መተግበሪያው ተጠቃሚዎች የገንዘብ ጉዳዮቻቸውን በየትኛውም ቦታ ሆነው ምቹና ደህንነቱ በተጠበቀ መንገድ እንዲያከናውኑ የተዘጋጀ ነው። 5. ፋስት ፔይ (fastPAY) ደንበኞች በሞባይል ስልካቸው አማካኝነት ገንዘብ እንዲልኩ እና እንዲቀበሉ፣ የተለያዩ ክፍያዎችን እንዲፈጽሙ እና ሌሎች የፋይናንስ አገልግሎቶችን እንዲያገኙ ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_028",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0002.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0002.md",
+      "chunk_preview": "እንኳን ደስ አላችሁ! እንኳን ደስ አለን! ገቢዎች ሚኒስቴር ባዘጋጀው 7ኛው ዙር የታማኝ ግብር ከፋዮች ዕውቅና እና ሽልማት መርሐ ግብር ላይ ባንካችን ለ7 ተከታታይ ዓመታት የፕላቲኒየም ደረጃ ግብር ከፋይ በመሆን መሸለሙን ስንገልፅ ታላቅ ደስታ ይሰማናል። የባንካችን የቢዝነስ ኤክስኪዩቲቭ ም ፕሬዝዳንት አቶ ደረጀ ፉፋ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_029",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0005.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0005.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ የዓለም አቀፍ ገንዘብ አስተላላፊ ወኪል በመሆን ይሥሩ፤ የተሻለ ጥቅም ያግኙ! የኢትዮጵያ ንግድ ባንክ በወኪሎች አማካኝነት ዓለም አቀፍ የገንዘብ ማስተላለፍ አገልግሎት ለመስጠት ከኢትዮጵያ ብሔራዊ ባንክ ፈቃድ አገኝቷል። ይህ በድረ-ገፅ ላይ የተመሠረተ (Web-Based) ገንዘብ የማስተላለፍ አገ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_030",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0006.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0006.md",
+      "chunk_preview": "ታላቅ የምስራች! በተባበሩት አረብ ኢምሬትስ እና ሳዑዲ አረቢያ ለምትኖሩ ኢትዮጵያውያንና ትውልደ ኢትዮጵያውያን በሙሉ! የኢትዮጵያ ንግድ ባንክ በተለያዩ የዓለም ሀገራት የሚገኙ ኢትዮጵያውያንን እና ትውልደ ኢትዮጵያውያን ጋር ጠንካራ የቢዝነስ ግንኙነት እና የሥራ አጋርነት ለመፍጠር መርሀ ግብር ቀርፆ በመንቀሳቀስ ላይ ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_031",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0008.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0008.md",
+      "chunk_preview": "መልካም ዜና ለውጭ ሀገር ተጓዥ ደንበኞቻችን ባንካችን የውጭ ሀገር ተጓዦች የሚያቀርቡትን የውጭ ምንዛሪ ጥያቄ የኢትዮጵያ ብሔራዊ ባንክ ያወጣውን መመሪያ ታሳቢ ባደረገ መልኩ ሲያስተናግድ ቆይቷል::\n\nአሁን ደግሞ ይህንኑ አገልግሎት በማሻሻል ሕጉ በሚፈቅደው ጣሪያ መሰረት በፍጥነትና በሚጠይቁት መጠን ልክ ለማስተናገድ ዝ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_032",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0009.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0009.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ የዲጂታል ባንኪንግ አገልግሎት ተደራሽነትን በማስፋትና የገበያ ድርሻውን በማሳደግ ረገድ አጠናክሮ እንደሚቀጥል አስታወቀ\n\nባንኩ ይህንን የገለጸው በዋና መሥሪያ ቤቱ በተካሄደው የዘጠኝ ወራት የሥራ አፈጻጸም ግምገማ መድረክ ላይ ነው። ቁልፍ የአፈጻጸም ውጤቶች በመድረኩ ላይ በባንኩ የስትራቴጂክ እ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_033",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0010.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0010.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ በሁሉም ዘርፎች የሚያስገኛቸው ውጤቶች ቀጣይነት እንዲኖራቸው በጥብቅ እየተሰራ መሆኑን የባንካችን ፕሬዚዳንት አቶ አቤ ሳኖ ገለፁ\n\nየባንኩ የ2025 26 በጀት ዓመት 3ኛ ሩብ ዓመት አፈፃፀም ግምገማ ጉባኤ ዛሬ ሚያዚያ 21 ቀን 2018 ዓ.ም ተካሂዷል። በጉባኤው ላይ የባንካችን ፕሬዚዳንት አቶ ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_034",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0011.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0011.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ የማስተርካርድን (Mastercard) በመጠቀም ከፍተኛ የውጭ ምንዛሬ ወደ ሀገር ውስጥ በማስገባት ላስመዘገበው አፈጻጸም ከማስተርካርድ ዕውቅና አገኘ\n\nዛሬ መጋቢት 28 ቀን 2018 ዓ.ም በማስተርካርድ የምስራቅ አፍሪካ ካንትሪ ማኔጀር እና ሲኒየር ምክትል ፕሬዚዳንት ሚስተር ሼርያር አሊ የሚመራው",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_035",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0012.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0012.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ በውጭ ሀገር የሚኖሩ ዜጎች በሀገሪቱ የልማት ስራዎች ላይ ያላቸውን ተሳትፎ ለማሳደግ ምቹ ሁኔታዎችን እየፈጠረ እንደሚገኝ ተገለጸ\n\nየኢትዮጵያ ንግድ ባንክ ከኦሮሚያ ዲያስፖራ ማህበር ጋር የመግባቢያ ሰነድ ተፈራርሟል። የስምምነቱ ዋና ዓላማ በፊርማ ስነ-ስርዓቱ ላይ የኢትዮጵያ ንግድ ባንክ የቢዝነ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_036",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0013.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0013.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ 5ኛውን የሕግ ተገዥነት ቀን (Compliance Day) እያከበረ ነው\n\nየኢትዮጵያ ንግድ ባንክ \"የፋይናንስ ወንጀሎችን በግልጽነት በመዋጋት የባንካችንን እምነትና ታማኝነት መገንባት\" በሚል መሪ ቃል፣ 5ኛውን የሕግ ተገዥነት ቀን (Compliance Day) በዛሬው ዕለት በዋና መስሪያ ቤቱ በድም",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_037",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0014.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0014.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ የ55ኛው የኢትዮጵያ አትሌቲክሰ ሻምፒዮና አሸናፊ ሆነ፡፡\n\nየባንኩ አትሌቲክስ ቡድን ከሰበራቸው 6 ሪከርዶች አንዱ ለ30 ዓመታት ተይዞ የቆየ ነው፡፡\n\nየውድድር አፈጻጸምና የተመዘገቡ ስኬቶች ደይ አበባ ስታዲየም ከመጋቢት 15 ቀን እስከ መጋቢት 20 ቀን 2018 ዓ.ም ሲካሄድ በቆየው 55ኛው የ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_038",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0015.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0015.md",
+      "chunk_preview": "\"ለሁሉም የስራ ፈጣሪዎች በወለድ አልባ የባንክ አገልግሎት ዘርፍ በቂ የፋይናንስ አቅርቦት ስላለ ኑ አብረን እንስራ።\" — አቶ አቤ ሳኖ\n\nየኢትዮጵያ ንግድ ባንክ ፕሬዚዳንት አቶ አቤ ሳኖ ይህንን ጥሪ ያቀረቡት \"አብሮነት እና በጎነት በረመዷን\" በሚል መሪ ቃል በባንኩ ዛሬ በተጀመረው ታላቁ የረመዳን ወር ንቅናቄ ማስጀ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_039",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0016.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0016.md",
+      "chunk_preview": "በረመዷን ዘካ ለመስጠትና ለመቀበል የሲቢኢ ኑር የዘካ ቁጠባ ሂሳብን እንዲገለገሉ ጥሪ ቀረበ\n\nየኢትዮጵያ ንግድ ባንክ የሲቢኢ ኑር አገልግሎት 'አብሮነትና በጎነት በረመዷን' በሚል የሰየመው የረመዷን ወር ንቅናቄ ዛሬ የካቲት 10 ቀን 2018 ዓ.ም በባንኩ ዋና መ ቤት በይፋ ተጀምሯል፡፡\n\nበማስጀመሪያ መርሃ ግብሩ ላይ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_040",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0016.md::chunk_0001"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0016.md",
+      "chunk_preview": "የሸሪዓ አማካሪ ኮሚቴ እና የሥራ ኃላፊዎች መልዕክት ዶ ር ሼይኽ መሀመድ ሐሚዲን (የሲቢኢ ኑር የሸሪዓ አማካሪ ኮሚቴ ሰብሳቢ)፦ የባንኩ የዘካ እና የዒድ ቁጠባ ሂሳቦች የእስልምና እምነት ተከታዮችን እሴት የጠበቁ በመሆናቸው፣ በረመዷን ወር ሙስሊሙ ማህበረሰብ በአግባቡ ሊጠቀምባቸው እንደሚገባ መልዕክት አስተላልፈዋል። ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_041",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0017.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0017.md",
+      "chunk_preview": "የኢትዮጵያ ኢንቨስትመንት ሆልዲንግስ የኢትዮጵያ ንግድ ባንክን የስድስት ወራት ሥራ አፈጻጸም ገመገመ፡፡\n\nየኢትዮጵያ ኢንቨስትመንት ሆልዲንግስ የኢትዮጵያ ንግድ ባንክን የ2018 ዓ.ም. በጀት ግማሽ ዓመት የሥራ አፈጻጸም ግምገማ አካሂዷል፡፡ ዛሬ በባንካችን ዋና መስሪያ ቤት በተካሄደ የግምገማ መድረክ፤ የባንካችን ዋና ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_042",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0018.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0018.md",
+      "chunk_preview": "የባንካችን ፕሬዚዳንት አቶ አቤ ሳኖ ከውጭ አገር ሕክምና ተመልሰው ሥራ ጀመሩ\n\nየእንኳን ደህና መጡ አቀባበል\n\nበውጭ አገር ሕክምናቸውን ሲከታተሉ የቆዩት የባንካችን ፕሬዚደንት አቶ አቤ ሳኖ ህክምናቸውን አጠናቀው ዛሬ ሥራ ጀምሩ። በዛሬው ዕለት በዋናው መ ቤት ቢሮአቸው በደረሱበት ወቅት የባንካችን ሥራ አመራር አባላት",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_043",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0019.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0019.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ የተሰጠውን ዋና ዋና ሀገራዊ ተልዕኮ በሚገባ እየተወጣ ነው\n\n— የሕዝብ ተወካዮች ምክር ቤት የመንግስት ልማት ድርጅት ጉዳዮች ቋሚ ኮሚቴ\n\nየኢ.ፌ.ዲ.ሪ የሕዝብ ተወካዮች ምክር ቤት የመንግስት ልማት ድርጅት ጉዳዮች ቋሚ ኮሚቴ የባንኩን የመንፈቀ ዓመት (የስድስት ወራት) ዕቅድ አፈጻጸም ገምግሟል",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_044",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0020.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0020.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ ደንበኞች ውይይት መድረክ ተካሄደ፡፡\n\nየደንበኞች አገልግሎት ሳምንት መርሐ-ግብር አካል የሆነው የባንካችን ታላላቅ ደንበኞች የውይይት መድረክ በዋናው መስሪያ ቤት መሰብሰቢያ አዳራሽ ተካሄዷል፡፡\n\nየመክፈቻ ገለጻ በውይይቱ መክፈቻ ላይ የባንካችን ሆልሴል ባንክ ምክትል ፕሬዚደንት እስክንድር አስፋ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_045",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0021.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0021.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ ደንበኛ ተኮር በመሆን እየሰራ መሆኑን የገንዘብ ሚኒስትሩ አቶ አህመድ ሽዴ ተናገሩ፡፡\n\nየኢትዮጵያ ንግድ ባንክ የደንበኞች አገልግሎት ሳምንት በይፋ መከበር ጀምሯል፡፡\n\nሚኒስትሩ የገለጹት የተቋሙ ጥንካሬና መሪነት የኢ.ፌ.ዴ.ሪ የገንዘብ ሚኒስትር እና የባንካችን የዳይሬክተሮች ቦርድ ሰብሳቢ አቶ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_046",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0021.md::chunk_0001"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0021.md",
+      "chunk_preview": "የኢትዮጵያ ንግድ ባንክ ደንበኛ ተኮር በመሆን እየሰራ መሆኑን የገንዘብ ሚኒስትሩ አቶ አህመድ ሽዴ ተናገሩ፡፡\n\nየኢትዮጵያ ንግድ ባንክ የደንበኞች አገልግሎት ሳምንት በይፋ መከበር ጀምሯል፡፡\n\nሚኒስትሩ የገለጹት የተቋሙ ጥንካሬና መሪነት የኢ.ፌ.ዴ.ሪ የገንዘብ ሚኒስትር እና የባንካችን የዳይሬክተሮች ቦርድ ሰብሳቢ አቶ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_047",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0022.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0022.md",
+      "chunk_preview": "ባንካችን ደንበኞችን ያስቀደመ ፖሊሲና ስትራቴጂ ተግባራዊ አድርጓል ሲሉ የኢትዮጵያ ንግድ ባንክ ፕሬዚደንት ተወካይ እና የኮርፖሬት አገልግሎቶች ኤክስኪዉቲቭ ምክትል ፕሬዚንት አቶ ኤፍሬም መኩሪያ ተናገሩ ። የኢትዮጵያ ንግድ ባንክ የደንበኞች አገልግሎት ሳምንት ይፋ ሆነ፡፡ ለሁለተኛ ጊዜ የሚከበረው የኢትዮጵያ ንግድ ባን",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_048",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0023.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0023.md",
+      "chunk_preview": "\"ደንበኞች ከልጆቻቸው በላይ የኢትዮጵያ ንግድ ባንክን ያምናሉ\"\n\nየኢትዮጵያ ንግድ ባንክ በደንበኞች ዘንድ ያለው አመኔታ እጅግ ጠንካራ እንደሆነ ሻለቃ አትሌት ኃይሌ ገብረሥላሴ ገለጸ። አትሌት ኃይሌ ይህንን የተናገረው ባንካችን በጀመረው የደንበኞች አገልግሎት ሳምንት የመክፈቻ መርሐ-ግብር የፓናል ውይይት ላይ ነው። የ",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_049",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0024.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0024.md",
+      "chunk_preview": "ጥራት ያለው አገልግሎት ለደንበኞች ለማቅረብ ለትምህርትና ስልጠና ተገቢውን ትኩረት ሊሰጥ እንደሚገባ ተገለጸ\n\n— አቶ ሳምሶን አረጋ (የኢትዮጵያ አየር መንገድ ግሩፕ ምክትል ፕሬዚደንት)\n\nምክትል ፕሬዚደንቱ ይህንን የጠቆሙት በኢትዮጵያ ንግድ ባንክ የደንበኞች አገልግሎት ሳምንት የፓናል ውይይት ላይ ተገኝተው የሥራ ልም",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_050",
+    "query": "",
+    "language": "am",
+    "domain": "banking",
+    "category": "",
+    "intent": "",
+    "complexity": {
+      "morphology_score": 0.0,
+      "level": ""
+    },
+    "gold_chunks": [
+      "cleaned28_cbe_0025.md::chunk_0000"
+    ],
+    "gold_answer": "",
+    "acceptable_answers": [],
+    "difficulty": "",
+    "metadata": {
+      "source": "cleaned28_cbe_0025.md",
+      "chunk_preview": "የእርስዎ እርካታ፣ የባንካችን ስኬት ነው! ውድ ደንበኞቻችን እንኳን ለደንበኞች ቀን አደረሳችሁ! የኢትዮጵያ ንግድ ባንክ የደንበኞች አገልግሎት ሳምንት የመክፈቻ መርሐግብር ዛሬ ጥር 19 ቀን 2018 ዓ.ም የኢትዮጵያ ንግድ ባንክ የቦርድ ሊቀመንበር እና የኢ.ፌ.ዲ.ሪ የገንዘብ ሚኒስትር አቶ አህመድ ሽዴ ሪባኑን በመቁረ",
+      "annotator": "human_expert"
+    }
+  }
+]

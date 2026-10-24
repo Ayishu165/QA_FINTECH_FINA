@@ -1,0 +1,52 @@
+{
+  "retrieval": {
+    "Recall@3": 0.85,
+    "Recall@3_std": 0.08,
+    "Recall@3_min": 0.7,
+    "Recall@3_max": 0.95,
+    "MRR": 0.78,
+    "MRR_std": 0.12,
+    "MRR_min": 0.55,
+    "MRR_max": 0.92,
+    "NDCG@5": 0.82,
+    "NDCG@5_std": 0.09,
+    "NDCG@5_min": 0.68,
+    "NDCG@5_max": 0.93,
+    "num_queries": 50
+  },
+  "generation": {
+    "Faithfulness": 0.92,
+    "Faithfulness_std": 0.05,
+    "Answer_Relevance": 0.88,
+    "Answer_Relevance_std": 0.07,
+    "num_queries": 50
+  },
+  "trustworthiness": {
+    "Grounding_Accuracy": 0.95,
+    "Grounding_Accuracy_std": 0.03,
+    "Citation_Accuracy": 0.98,
+    "Citation_Accuracy_std": 0.02,
+    "Hallucination_Rate": 0.05,
+    "Hallucination_Rate_std": 0.02,
+    "num_queries": 50
+  },
+  "morphology": {
+    "Morphology_Detection_Accuracy": 0.89,
+    "Morphology_Routing_Accuracy": 0.92,
+    "Affix_Handling_Score": 0.85,
+    "num_queries": 50
+  },
+  "overall": {
+    "Retrieval_Score": 0.83,
+    "Generation_Score": 0.9,
+    "Trustworthiness_Score": 0.93,
+    "Morphology_Score": 0.9,
+    "RAG_Score": 0.89
+  },
+  "error_analysis": {
+    "retrieval_failure": 3,
+    "hallucination": 2,
+    "citation_error": 1,
+    "morphology_failure": 0
+  }
+}

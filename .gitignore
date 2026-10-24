@@ -1,0 +1,16 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+data/
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+*.log

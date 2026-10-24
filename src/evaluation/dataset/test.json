@@ -1,0 +1,383 @@
+[
+  {
+    "id": "test_001",
+    "query": "የCBE የቁጠባ ሂሳብ እንዴት መክፈት እችላለሁ?",
+    "language": "am",
+    "domain": "banking",
+    "category": "account_opening",
+    "intent": "procedure",
+    "complexity": {
+      "morphology_score": 0.55,
+      "level": "medium"
+    },
+    "gold_chunks": [
+      "cbe_savings.md::chunk_0001",
+      "cbe_savings.md::chunk_0002"
+    ],
+    "gold_answer": "የCBE የቁጠባ ሂሳብ ለመክፈት የታደሰ መታወቂያ ካርድ፣ የቀበሌ ማረጋገጫ እና 2 ፓስፖርት ፎቶዎችን ማቅረብ ያስፈልጋል።",
+    "acceptable_answers": [
+      "መታወቂያ፣ የቀበሌ ማረጋገጫ እና ፎቶ ያስፈልጋል",
+      "Requires ID card, kebele ID, and passport photos"
+    ],
+    "difficulty": "medium",
+    "metadata": {
+      "source": "cbe_savings.md",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_002",
+    "query": "የብድር ዓመታዊ ወለድ መጠን ስንት ነው?",
+    "language": "am",
+    "domain": "banking",
+    "category": "loan_interest",
+    "intent": "numerical",
+    "complexity": {
+      "morphology_score": 0.48,
+      "level": "medium"
+    },
+    "gold_chunks": [
+      "cbe_loan.md::chunk_0001"
+    ],
+    "gold_answer": "የCBE የብድር ዓመታዊ ወለድ መጠን 12% ነው።",
+    "acceptable_answers": [
+      "12% ነው",
+      "Annual interest rate is 12%"
+    ],
+    "difficulty": "easy",
+    "metadata": {
+      "source": "cbe_loan.md",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_003",
+    "query": "የጋሻ ባለዕዳ ካርድ ለማን ይሰጣል?",
+    "language": "am",
+    "domain": "banking",
+    "category": "cards",
+    "intent": "eligibility",
+    "complexity": {
+      "morphology_score": 0.45,
+      "level": "medium"
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0000"
+    ],
+    "gold_answer": "ዕድሜያቸው 55 ዓመት እና ከዚያ በላይ ለሆኑ የጋሻ አካውንት ባለቤቶች ይሰጣል።",
+    "acceptable_answers": [
+      "55 ዓመት እና ከዚያ በላይ",
+      "For customers aged 55 and above"
+    ],
+    "difficulty": "medium",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_004",
+    "query": "ቴሌብር ምንድን ነው?",
+    "language": "am",
+    "domain": "mobile_money",
+    "category": "service_definition",
+    "intent": "definition",
+    "complexity": {
+      "morphology_score": 0.25,
+      "level": "low"
+    },
+    "gold_chunks": [
+      "telebirr.md::chunk_0001"
+    ],
+    "gold_answer": "ቴሌብር በኢትዮ ቴሌኮም የሚሰጥ የሞባይል ገንዘብ አገልግሎት ነው።",
+    "acceptable_answers": [
+      "የሞባይል ባንኪንግ አገልግሎት",
+      "Mobile money service by Ethio Telecom"
+    ],
+    "difficulty": "easy",
+    "metadata": {
+      "source": "telebirr.md",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_005",
+    "query": "በCBE እና በሌሎች ባንኮች መካከል ያለው የቁጠባ ወለድ ልዩነት ምንድን ነው?",
+    "language": "am",
+    "domain": "banking",
+    "category": "interest_comparison",
+    "intent": "comparison",
+    "complexity": {
+      "morphology_score": 0.58,
+      "level": "medium"
+    },
+    "gold_chunks": [
+      "cbe_compare.md::chunk_0001",
+      "nbe_regulation.md::chunk_0003"
+    ],
+    "gold_answer": "የCBE የቁጠባ ወለድ 7% ሲሆን፣ የአብዛኛዎቹ የግል ባንኮች ከ5% እስከ 8% ይሰጣሉ።",
+    "acceptable_answers": [
+      "CBE 7%፣ ሌሎች 5-8%",
+      "CBE offers 7%, others 5-8%"
+    ],
+    "difficulty": "hard",
+    "metadata": {
+      "source": "cbe_compare.md",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_006",
+    "query": "የCBE ፕሪሚየም ደንበኛ ለመሆን ምን ማሟላት አለብኝ?",
+    "language": "am",
+    "domain": "banking",
+    "category": "premium_banking",
+    "intent": "eligibility",
+    "complexity": {
+      "morphology_score": 0.62,
+      "level": "high"
+    },
+    "gold_chunks": [
+      "cbe_premium.md::chunk_0001",
+      "cbe_premium.md::chunk_0002"
+    ],
+    "gold_answer": "ቢያንስ 500,000 ብር በቁጠባ ሂሳብ ውስጥ ሊኖርዎት ይገባል፣ እንዲሁም ወርሃዊ ገቢዎ ከ50,000 ብር በላይ መሆን አለበት።",
+    "acceptable_answers": [
+      "500,000 ብር ቁጠባ እና 50,000 ብር ወርሃዊ ገቢ",
+      "Minimum 500K ETB savings and 50K monthly income"
+    ],
+    "difficulty": "hard",
+    "metadata": {
+      "source": "cbe_premium.md",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_007",
+    "query": "ከኤቲኤም በቀን ምን ያህል ገንዘብ ማውጣት እችላለሁ?",
+    "language": "am",
+    "domain": "banking",
+    "category": "atm_limits",
+    "intent": "numerical",
+    "complexity": {
+      "morphology_score": 0.42,
+      "level": "medium"
+    },
+    "gold_chunks": [
+      "cbe_cards_corpus.md::chunk_0000"
+    ],
+    "gold_answer": "ከኤቲኤም በቀን ሊወጣ የሚችለው ከፍተኛው የጥሬ ገንዘብ መጠን 5,000 ብር ነው።",
+    "acceptable_answers": [
+      "5,000 ብር",
+      "Maximum 5,000 ETB per day"
+    ],
+    "difficulty": "easy",
+    "metadata": {
+      "source": "cbe_cards_corpus.md",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_008",
+    "query": "የዲያስፖራ ብድር ለማግኘት ምን ማድረግ አለብኝ?",
+    "language": "am",
+    "domain": "banking",
+    "category": "diaspora_loan",
+    "intent": "procedure",
+    "complexity": {
+      "morphology_score": 0.68,
+      "level": "high"
+    },
+    "gold_chunks": [
+      "cbe_diaspora.md::chunk_0001",
+      "cbe_diaspora.md::chunk_0002"
+    ],
+    "gold_answer": "የዲያስፖራ ብድር ለማግኘት የውጭ ሀገር መኖሪያ ፈቃድ፣ የገቢ ማረጋገጫ እና የCBE ዲያስፖራ አካውንት ያስፈልጋል።",
+    "acceptable_answers": [
+      "የውጭ ሀገር መኖሪያ፣ የገቢ ማረጋገጫ እና ዲያስፖራ አካውንት",
+      "Requires foreign residence permit, income proof, and diaspora account"
+    ],
+    "difficulty": "hard",
+    "metadata": {
+      "source": "cbe_diaspora.md",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_009",
+    "query": "የCBE ሞባይል ባንኪንግ አገልግሎት ምን ምን ያካትታል?",
+    "language": "am",
+    "domain": "mobile_banking",
+    "category": "mobile_features",
+    "intent": "definition",
+    "complexity": {
+      "morphology_score": 0.52,
+      "level": "medium"
+    },
+    "gold_chunks": [
+      "cbe_mobile.md::chunk_0001"
+    ],
+    "gold_answer": "የCBE ሞባይል ባንኪንግ ገንዘብ ማስተላለፍ፣ ቢል ክፍያ፣ የሂሳብ ቀሪ ማየት እና የብድር ማመልከቻ ያካትታል።",
+    "acceptable_answers": [
+      "ገንዘብ ማስተላለፍ፣ ቢል ክፍያ፣ ቀሪ ማየት",
+      "Includes transfers, bill payments, balance check, loan application"
+    ],
+    "difficulty": "medium",
+    "metadata": {
+      "source": "cbe_mobile.md",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_010",
+    "query": "የካርድ ዓመታዊ ክፍያ ስንት ነው?",
+    "language": "am",
+    "domain": "banking",
+    "category": "card_fees",
+    "intent": "numerical",
+    "complexity": {
+      "morphology_score": 0.38,
+      "level": "low"
+    },
+    "gold_chunks": [
+      "cbe_fees.md::chunk_0001"
+    ],
+    "gold_answer": "የCBE ካርድ ዓመታዊ ክፍያ 200 ብር ነው።",
+    "acceptable_answers": [
+      "200 ብር",
+      "Annual fee is 200 ETB"
+    ],
+    "difficulty": "easy",
+    "metadata": {
+      "source": "cbe_fees.md",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_011",
+    "query": "የብድር ማመልከቻ ሂደት ምን ያህል ጊዜ ይወስዳል?",
+    "language": "am",
+    "domain": "banking",
+    "category": "loan_process",
+    "intent": "numerical",
+    "complexity": {
+      "morphology_score": 0.55,
+      "level": "medium"
+    },
+    "gold_chunks": [
+      "cbe_loan.md::chunk_0003"
+    ],
+    "gold_answer": "የብድር ማመልከቻ ሂደት ከ5 እስከ 7 የስራ ቀናት ይወስዳል።",
+    "acceptable_answers": [
+      "5-7 ቀናት",
+      "5-7 business days"
+    ],
+    "difficulty": "medium",
+    "metadata": {
+      "source": "cbe_loan.md",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_012",
+    "query": "የተጠቃሚዎችን የሂሳብ አስተዳደር ስርዓት ለማሻሻል የሚያስችሉ መንገዶች ምን ምን ናቸው?",
+    "language": "am",
+    "domain": "banking",
+    "category": "account_management",
+    "intent": "procedure",
+    "complexity": {
+      "morphology_score": 0.75,
+      "level": "high"
+    },
+    "gold_chunks": [
+      "cbe_account.md::chunk_0001",
+      "cbe_account.md::chunk_0002"
+    ],
+    "gold_answer": "የሂሳብ አስተዳደር ለማሻሻል ኦንላይን ባንኪንግ መጠቀም፣ ሞባይል ማሳወቂያ ማዘጋጀት እና ወርሃዊ ሪፖርት ማየት ይቻላል።",
+    "acceptable_answers": [
+      "ኦንላይን ባንኪንግ፣ ሞባይል ማሳወቂያ፣ ወርሃዊ ሪፖርት",
+      "Use online banking, mobile alerts, monthly reports"
+    ],
+    "difficulty": "hard",
+    "metadata": {
+      "source": "cbe_account.md",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_013",
+    "query": "የPOS ማሽን ለማግኘት ምን ያስፈልጋል?",
+    "language": "am",
+    "domain": "banking",
+    "category": "pos_terminal",
+    "intent": "eligibility",
+    "complexity": {
+      "morphology_score": 0.48,
+      "level": "medium"
+    },
+    "gold_chunks": [
+      "cbe_pos.md::chunk_0001"
+    ],
+    "gold_answer": "የPOS ማሽን ለማግኘት የንግድ ፈቃድ፣ የCBE የንግድ አካውንት እና የመመለሻ ዋስትና ያስፈልጋል።",
+    "acceptable_answers": [
+      "የንግድ ፈቃድ፣ የንግድ አካውንት፣ ዋስትና",
+      "Requires business license, business account, and collateral"
+    ],
+    "difficulty": "medium",
+    "metadata": {
+      "source": "cbe_pos.md",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_014",
+    "query": "የውጭ ምንዛሬ አካውንት ለመክፈት ምን ማድረግ አለብኝ?",
+    "language": "am",
+    "domain": "banking",
+    "category": "forex_account",
+    "intent": "procedure",
+    "complexity": {
+      "morphology_score": 0.65,
+      "level": "high"
+    },
+    "gold_chunks": [
+      "cbe_forex.md::chunk_0001",
+      "cbe_forex.md::chunk_0002"
+    ],
+    "gold_answer": "የውጭ ምንዛሬ አካውንት ለመክፈት ፓስፖርት፣ የውጭ ሀገር መኖሪያ ፈቃድ ወይም ቪዛ እና የገቢ ማረጋገጫ ያስፈልጋል።",
+    "acceptable_answers": [
+      "ፓስፖርት፣ የውጭ መኖሪያ ፈቃድ፣ የገቢ ማረጋገጫ",
+      "Requires passport, foreign residence permit or visa, income proof"
+    ],
+    "difficulty": "hard",
+    "metadata": {
+      "source": "cbe_forex.md",
+      "annotator": "human_expert"
+    }
+  },
+  {
+    "id": "test_015",
+    "query": "የCBE ኢንተርኔት ባንኪንግ ደህንነቱ የተጠበቀ ነው?",
+    "language": "am",
+    "domain": "banking",
+    "category": "internet_banking",
+    "intent": "definition",
+    "complexity": {
+      "morphology_score": 0.42,
+      "level": "medium"
+    },
+    "gold_chunks": [
+      "cbe_internet.md::chunk_0001"
+    ],
+    "gold_answer": "አዎ፣ የCBE ኢንተርኔት ባንኪንግ በ256-ቢት ኢንክሪፕሽን እና በ2FA (Two-Factor Authentication) የተጠበቀ ነው።",
+    "acceptable_answers": [
+      "አዎ፣ በ256-bit encryption እና 2FA የተጠበቀ",
+      "Yes, secured with 256-bit encryption and 2FA"
+    ],
+    "difficulty": "medium",
+    "metadata": {
+      "source": "cbe_internet.md",
+      "annotator": "human_expert"
+    }
+  }
+]

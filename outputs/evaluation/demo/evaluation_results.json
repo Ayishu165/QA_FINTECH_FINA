@@ -1,0 +1,155 @@
+{
+  "total_queries": 2,
+  "successful": 2,
+  "aggregate_metrics": {
+    "avg_HitRate": 0.5,
+    "avg_Recall@5": 0.5,
+    "avg_Precision@3": 0.3333,
+    "avg_MRR": 0.5,
+    "avg_Precision@10": 0.3333,
+    "avg_Recall@1": 0.25,
+    "avg_MAP": 0.5,
+    "avg_NDCG@3": 0.5,
+    "avg_NDCG@1": 0.5,
+    "avg_NDCG@5": 0.5,
+    "avg_Precision@5": 0.3333,
+    "avg_NDCG@10": 0.5,
+    "avg_Recall@10": 0.5,
+    "avg_Recall@3": 0.5,
+    "avg_Precision@1": 0.5,
+    "avg_faithfulness": 0.0,
+    "avg_answer_relevance": 0.0,
+    "avg_context_relevance": 0.0,
+    "avg_completeness": 0.0,
+    "avg_answer_length": 124.0,
+    "avg_citation_count": 3.0,
+    "avg_grounding_accuracy": 1.0,
+    "avg_hallucination_rate": 0.0,
+    "avg_citation_accuracy": 1.0,
+    "avg_evidence_coverage": 1.0,
+    "avg_confidence_calibration": 91.3143,
+    "avg_overall_trustworthiness": 1.0,
+    "intent_accuracy": 1.0,
+    "success_rate": 1.0,
+    "avg_time_ms": 145.96
+  },
+  "results": [
+    {
+      "query": "የCBE የቁጠባ ሂሳብ እንዴት መክፈት እችላለሁ?",
+      "ground_truth_chunks": [
+        "cbe_savings.md::chunk_0001",
+        "cbe_savings.md::chunk_0002"
+      ],
+      "expected_intent": "procedure",
+      "detected_intent": "procedure",
+      "generated_answer": "የCBE የቁጠባ ሂሳብ ለመክፈት የሚከተሉትን ማቅረብ ያስፈልጋል። [1]\n\n1. የታደሰ መታወቂያ ካርድ [1]\n2. የቀበሌ ማረጋገጫ [2]\n3. 2 ፓስፖርት ፎቶ [2]\n\nሂሳብ መክፈት ነፃ ነው። [3]",
+      "retrieved_chunks": [
+        {
+          "chunk_id": "cbe_savings.md::chunk_0001",
+          "score": 0.92
+        },
+        {
+          "chunk_id": "cbe_savings.md::chunk_0002",
+          "score": 0.78
+        },
+        {
+          "chunk_id": "cbe_savings.md::chunk_0003",
+          "score": 0.55
+        }
+      ],
+      "retrieval_metrics": {
+        "Recall@1": 0.5,
+        "Precision@1": 1.0,
+        "NDCG@1": 1.0,
+        "Recall@3": 1.0,
+        "Precision@3": 0.6666666666666666,
+        "NDCG@3": 1.0,
+        "Recall@5": 1.0,
+        "Precision@5": 0.6666666666666666,
+        "NDCG@5": 1.0,
+        "Recall@10": 1.0,
+        "Precision@10": 0.6666666666666666,
+        "NDCG@10": 1.0,
+        "MRR": 1.0,
+        "MAP": 1.0,
+        "HitRate": 1.0
+      },
+      "generation_metrics": {
+        "faithfulness": 0.0,
+        "answer_relevance": 0.0,
+        "context_relevance": 0.0,
+        "answer_length": 124,
+        "citation_count": 3
+      },
+      "trustworthiness_metrics": {
+        "grounding_accuracy": 1.0,
+        "hallucination_rate": 0.0,
+        "citation_accuracy": 1.0,
+        "evidence_coverage": 1.0,
+        "confidence_calibration": 91.31428571428573,
+        "overall_trustworthiness": 1.0
+      },
+      "timing_ms": 101.341,
+      "success": true,
+      "errors": []
+    },
+    {
+      "query": "የብድር ወለድ መጠን ስንት ነው?",
+      "ground_truth_chunks": [
+        "cbe_loan.md::chunk_0001"
+      ],
+      "expected_intent": "numerical",
+      "detected_intent": "numerical",
+      "generated_answer": "የCBE የቁጠባ ሂሳብ ለመክፈት የሚከተሉትን ማቅረብ ያስፈልጋል። [1]\n\n1. የታደሰ መታወቂያ ካርድ [1]\n2. የቀበሌ ማረጋገጫ [2]\n3. 2 ፓስፖርት ፎቶ [2]\n\nሂሳብ መክፈት ነፃ ነው። [3]",
+      "retrieved_chunks": [
+        {
+          "chunk_id": "cbe_savings.md::chunk_0001",
+          "score": 0.92
+        },
+        {
+          "chunk_id": "cbe_savings.md::chunk_0002",
+          "score": 0.78
+        },
+        {
+          "chunk_id": "cbe_savings.md::chunk_0003",
+          "score": 0.55
+        }
+      ],
+      "retrieval_metrics": {
+        "Recall@1": 0.0,
+        "Precision@1": 0.0,
+        "NDCG@1": 0.0,
+        "Recall@3": 0.0,
+        "Precision@3": 0.0,
+        "NDCG@3": 0.0,
+        "Recall@5": 0.0,
+        "Precision@5": 0.0,
+        "NDCG@5": 0.0,
+        "Recall@10": 0.0,
+        "Precision@10": 0.0,
+        "NDCG@10": 0.0,
+        "MRR": 0.0,
+        "MAP": 0.0,
+        "HitRate": 0.0
+      },
+      "generation_metrics": {
+        "faithfulness": 0.0,
+        "answer_relevance": 0.0,
+        "context_relevance": 0.0,
+        "answer_length": 124,
+        "citation_count": 3
+      },
+      "trustworthiness_metrics": {
+        "grounding_accuracy": 1.0,
+        "hallucination_rate": 0.0,
+        "citation_accuracy": 1.0,
+        "evidence_coverage": 1.0,
+        "confidence_calibration": 91.31428571428573,
+        "overall_trustworthiness": 1.0
+      },
+      "timing_ms": 190.586,
+      "success": true,
+      "errors": []
+    }
+  ]
+}
